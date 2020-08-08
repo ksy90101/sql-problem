@@ -4,3 +4,5 @@
 - [\[프로그래머스\] 모든 레코드 조회하기](https://github.com/ksy90101/sql-problem/blob/master/findAllRecode.md)
 - [\[프로그래머스\] 최대값 구하기](https://github.com/ksy90101/sql-problem/blob/master/findMaxValue.md)
 - [\[프로그래머스\] 역순 정렬하기](https://github.com/ksy90101/sql-problem/blob/master/sortDesc.md)
+- [\[프로그래머스\] 아픈 동물 찾기](https://github.com/ksy90101/sql-problem/blob/master/findSickAnimal.md)
+- [\[프로그래머스\] 어린 동물 찾기](https://github.com/ksy90101/sql-problem/blob/master/findYoungAnimal.md)
