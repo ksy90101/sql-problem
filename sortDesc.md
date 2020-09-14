@@ -24,7 +24,7 @@ Jackie | 2016-01-03 16:25:00
 ..이하 생략
 
 본 문제는 [Kaggle의 Austin Animal Center Shelter Intakes and Outcomes](https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes)
-에서 제공하는 데이터를 사용하였으며 [ODbL](https://opendatacommons.org/licenses/odbl/1-0/)의 적용을 받습니다.
+에서 제공하는 데이터를 사용하였으며 [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) 의 적용을 받습니다.
 
 ## 정답
 
