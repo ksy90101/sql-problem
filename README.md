@@ -9,3 +9,4 @@
 - [\[프로그래머스\] 여러 기준으로 정렬하기](https://github.com/ksy90101/sql-problem/blob/master/sortByVariousColumn.md)
 - [\[프로그래머스\] 동물 아이디와 이름](https://github.com/ksy90101/sql-problem/blob/master/animalIdAndName.md)
 - [\[프로그래머스\] 이름이 있는 동물 아이디](https://github.com/ksy90101/sql-problem/blob/master/animalExistName.md)
+- [\[프로그래머스\] 이름이 없는 동물 아이디](https://github.com/ksy90101/sql-problem/blob/master/animalNotExistName.md)
