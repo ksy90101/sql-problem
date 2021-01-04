@@ -11,3 +11,4 @@
 - [\[프로그래머스\] 이름이 있는 동물 아이디](https://github.com/ksy90101/sql-problem/blob/master/animalExistName.md)
 - [\[프로그래머스\] 이름이 없는 동물 아이디](https://github.com/ksy90101/sql-problem/blob/master/animalNotExistName.md)
 - [\[프로그래머스\] 상위 n개 레코드](https://github.com/ksy90101/sql-problem/blob/master/TopNRecords.md)
+- [\[프로그래머스\] 고양이와 개는 몇 마리 있을까](https://github.com/ksy90101/sql-problem/blob/master/how_many_cats_and_dogs_are_there.md)

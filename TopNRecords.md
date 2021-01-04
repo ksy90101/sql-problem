@@ -32,8 +32,6 @@ A403564 | Dog | 2013-11-18 17:03:00 | Normal | Anna | Spayed Female
 
 ※ 보호소에 가장 먼저 들어온 동물은 한 마리인 경우만 테스트 케이스로 주어집니다.
 
-본 문제는 Kaggle의 Austin Animal Center Shelter Intakes and Outcomes에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.
-
 본 문제는 [Kaggle의 Austin Animal Center Shelter Intakes and Outcomes](https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes)
 에서 제공하는 데이터를 사용하였으며 [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) 의 적용을 받습니다.
 
@@ -44,6 +42,7 @@ A403564 | Dog | 2013-11-18 17:03:00 | Normal | Anna | Spayed Female
 SELECT NAME FROM (SELECT NAME FROM ANIMAL_INS ORDER BY DATETIME) WHERE ROWNUM = 1 
 ```
 
+### MySQL
 ```mysql
 SELECT NAME FROM ANIMAL_INS ORDER BY DATETIME LIMIT 1;
 ```
