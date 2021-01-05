@@ -15,3 +15,4 @@
 - [\[프로그래머스\] 동명 동물수 찾기](https://github.com/ksy90101/sql-problem/blob/master/find_the_number_of_animals_of_the_same_name.md)
 - [\[프로그래머스\] 최소값 구하기](https://github.com/ksy90101/sql-problem/blob/master/find_min.md)
 - [\[프로그래머스\] 동물 수 구하기](https://github.com/ksy90101/sql-problem/blob/master/find_animal_number.md)
+- [\[프로그래머스\] 중복 제거하기](https://github.com/ksy90101/sql-problem/blob/master/remove_duplicates.md)
