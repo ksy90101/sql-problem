@@ -18,3 +18,4 @@
 - [\[프로그래머스\] 중복 제거하기](https://github.com/ksy90101/sql-problem/blob/master/remove_duplicates.md)
 - [\[프로그래머스\] 입양 시각 구하기(1)](https://github.com/ksy90101/sql-problem/blob/master/finding_adoption_time_1.md)
 - [\[프로그래머스\] 입양 시각 구하기(2)](https://github.com/ksy90101/sql-problem/blob/master/finding_adoption_time_2.md)
+- [\[프로그래머스\] 이름에 el이 들어가는 동물 찾기](https://github.com/ksy90101/sql-problem/blob/master/find_animals_with_el_in_their_name.md)
