@@ -21,3 +21,4 @@
 - [\[프로그래머스\] 이름에 el이 들어가는 동물 찾기](https://github.com/ksy90101/sql-problem/blob/master/find_animals_with_el_in_their_name.md)
 - [\[프로그래머스\] 루시와 엘라 찾기](https://github.com/ksy90101/sql-problem/blob/master/finding_luck_and_ella.md)
 - [\[프로그래머스\] null 처리하기](https://github.com/ksy90101/sql-problem/blob/master/processing_null.md)
+- [\[프로그래머스\] 중성화 여부 파악하기](https://github.com/ksy90101/sql-problem/blob/master/determine_if_you_have_neutralized.md)
